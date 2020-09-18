@@ -8,9 +8,9 @@
 - A few of the technologies I enjoy working with include HTML || CSS || JavaScript || React.js || Redux || Node.js || Python
 - Outside of coding I enjoy movies, cooking, and long-distance running.
 
-### You Can Reach Me:
-Email: [g.hawman@gmail.com]
-LinkedIn: <a href="https://www.linkedin.com/in/gregory-hawman/">linkedin.com/in/gregory-hawmand</a>
+### Contact Me:
+Email: g.hawman@gmail.com
+LinkedIn: <a href="https://www.linkedin.com/in/gregory-hawman/">gregory-hawman</a>
 
 <!--
 **Gregory-Hawman/Gregory-Hawman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

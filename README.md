@@ -10,7 +10,7 @@
 
 ### Contact Me:
 - Email: g.hawman@gmail.com
-- LinkedIn: <a href="https://www.linkedin.com/in/gregory-hawman/">gregory-hawman</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/gregory-hawman/">/gregory-hawman</a>
 
 <!--
 **Gregory-Hawman/Gregory-Hawman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

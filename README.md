@@ -1,6 +1,6 @@
 <img src='https://media-exp1.licdn.com/dms/image/C5616AQHY7pRKv8HC9A/profile-displaybackgroundimage-shrink_350_1400/0?e=1605744000&v=beta&t=P7vYr__o32PYEFkQKaT-33o3x-bSE6AhFtcOdVI_GTY' alt='banner'>
 
-### Hi I'm Gregory 👋 💻
+### Hi I'm Gregory Hawman👋 💻
 <br>
 
 - I'm a software engineer who is passionate about making open-source applications, creating technology to help people, and building communities.

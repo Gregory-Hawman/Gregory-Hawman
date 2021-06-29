@@ -1,5 +1,3 @@
-<img src='https://media-exp1.licdn.com/dms/image/C5616AQHY7pRKv8HC9A/profile-displaybackgroundimage-shrink_350_1400/0?e=1605744000&v=beta&t=P7vYr__o32PYEFkQKaT-33o3x-bSE6AhFtcOdVI_GTY' alt='banner'>
-
 ### Hi I'm Gregory Hawman👋 💻
 <br>
 
@@ -17,6 +15,7 @@
 **Gregory-Hawman/Gregory-Hawman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img src='https://media-exp1.licdn.com/dms/image/C5616AQHY7pRKv8HC9A/profile-displaybackgroundimage-shrink_350_1400/0?e=1605744000&v=beta&t=P7vYr__o32PYEFkQKaT-33o3x-bSE6AhFtcOdVI_GTY' alt='banner'>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

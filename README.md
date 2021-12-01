@@ -1,3 +1,4 @@
+<img src='https://www.linkedin.com/in/gregory-hawman/detail/background-image/' alt='banner'>
 ### Hi I'm Gregory Hawman👋 💻
 <br>
 

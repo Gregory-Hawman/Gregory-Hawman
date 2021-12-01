@@ -2,9 +2,9 @@
 ### Hi I'm Gregory Hawman👋 💻
 <br>
 
-- I'm a full-stack web designer who is passionate about making open-source applications, creating technology to help people, and building communities.
-- I have worked on a number of great and fun projects withsoem amazing people, including a reservation site for <a href="https://www.BridgeGood.org">BridgeGood</a>. Giving job seeking Creatives & Designers of color the professional resources to discover and explore meaningful careers while improving diverse local economies.
-- A few of the technologies I enjoy working with include || React.js || Redux || Node.js || JavaScript || Python || HTML || CSS || 
+- I'm a Web Developer / Software Engineer who is passionate about making open-source applications, creating technology to help people, and building communities.
+- I have worked on a number of great and fun projects withsoem amazing people, including a reservation site for <a href="https://www.BridgeGood.org">BridgeGood</a>. Giving job seeking Creatives & Designers, of lower income and lesser means, the professional resources to discover and explore meaningful careers while improving diverse local economies.
+- A few of the technologies I enjoy working with include || JavaScript || Node.js || React.js || Redux || SQL || Python || HTML || CSS || 
 - Outside of coding I enjoy movies, cooking, and running.
 
 ### Contact Me:

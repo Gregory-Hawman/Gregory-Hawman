@@ -1,4 +1,6 @@
+<!--
 <img src='https://media-exp1.licdn.com/dms/image/C5616AQFqVn1cmfPmUw/profile-displaybackgroundimage-shrink_350_1400/0/1638394683248?e=1643846400&v=beta&t=_djVG2w-of3vd-faQnnvZ4K3dI0wdgKPrtJgCmUjpfE' alt='banner'>
+-->
 ### Hi I'm Gregory Hawman👋 💻
 <br>
 
